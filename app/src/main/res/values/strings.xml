@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tutorial 6</string>
+    <string name="connect">Connect to Wi-Fi</string>
+    <string name="disconnect">Disconnect Wi-Fi</string>
+    <string name="connected_to">Connected to %s</string>
+    <string name="disconnected">Disconnected</string>
+</resources>
